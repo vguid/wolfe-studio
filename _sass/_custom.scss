@@ -1,7 +1,8 @@
 /* Apply Playwrite Polska to the site title/banner */
+.navbar-brand,
+.navbar-brand h1,
 .site-title,
-#header .site-title,
-#header h1,
-.navbar-brand {
-  font-family: 'Playwrite Polska', serif;
+.navbar {
+  font-family: 'Playwrite Polska', serif !important;
 }
+
